@@ -1,4 +1,4 @@
-puts "3" + 3.0
+puts "3".to_f + 3.0
 
 # class_celeb_crushes = {
 #   "Natalia" => "Timothee Chalamet",
