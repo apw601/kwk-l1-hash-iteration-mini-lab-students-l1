@@ -18,7 +18,7 @@ def add_a_key_value_pair
   summer_olympics[:Atlanta] = 1996
   puts summer_olympics
 end
-puts add_a_key_value_pair
+# puts add_a_key_value_pair
 
 def iterate_through_hash
    summer_olympics = {
