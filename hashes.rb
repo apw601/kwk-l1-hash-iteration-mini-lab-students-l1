@@ -3,6 +3,7 @@ class_celeb_crushes.each do |names, crushes|
 end
 
 
+
 class_celeb_crushes = {
   "Natalia" => "Timothee Chalamet",
   "Maya" => "Michael B. Jordan",
