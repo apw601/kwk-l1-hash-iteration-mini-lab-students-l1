@@ -1,14 +1,16 @@
+class_celeb_crushes = {
+  "Natalia" => "Timothee Chalamet",
+  "Maya" => "Michael B. Jordan",
+  "Amira" => "Cole Sprouse",
+}
+
 class_celeb_crushes.each do |names, crushes|
   puts "#{names}'s crush is #{crushes}"
 end
 
 
 
-class_celeb_crushes = {
-  "Natalia" => "Timothee Chalamet",
-  "Maya" => "Michael B. Jordan",
-  "Amira" => "Cole Sprouse",
-}
+
 # puts class_celeb_crushes
 
 # character_names = ["Monica", "Joey", "Phoebe"]
