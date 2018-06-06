@@ -8,3 +8,5 @@ character_names.each do |name|
   friends_characters[name] = characteristics[index]
   index += 1
 end
+
+puts friends_characters
