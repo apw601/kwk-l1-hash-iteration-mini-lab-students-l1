@@ -1,7 +1,7 @@
 class_celeb_crushes = {
   "Natalia" => "Timothee Chalamet",
-  "Maya" => "Michael B. Jordan"
-  "Amira" => "Cole Sprouse"
+  "Maya" => "Michael B. Jordan",
+  "Amira" => "Cole Sprouse",
   
 }
 puts class_celeb_crushes
